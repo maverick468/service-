@@ -1,0 +1,133 @@
+body{
+    background: linear-gradient(45deg,#08001f,#30197d);
+}
+.sciencesphare{
+    display:block;
+    padding: 100px;
+}
+.buttoni{
+    background-color: red;
+    height: 234px;
+    width: 100%;
+}
+.buttoni:hover{
+    background-color:lightcoral;
+ }
+ .buttoni:active{
+    background-color: lightpink;
+ }
+.word{
+    color: aliceblue;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 100px;
+}
+.dropdown{
+    text-align: center;
+    display: none;
+    background-color: darkgrey;
+    position: absolute;
+    align-items: center;
+}
+.calendar{
+    display: block;
+}
+.calendar:hover .dropdown {
+display: block;
+justify-content: right;
+}
+.buttonj{
+    background-color: rgb(17, 105, 220);
+    height:50px;
+    width: 100%;
+}
+.buttonj:hover{
+    background-color: lightskyblue;
+    cursor: pointer;
+}
+.buttonj:active{
+    background-color: lightcyan;
+}
+.buttonk{
+    background-color: rgb(17, 105, 220);
+    height:50px;
+    width: 100%;
+}
+.buttonk:hover{
+    background-color: lightskyblue;
+    cursor: pointer;
+}
+.buttonk:active{
+    background-color: lightcyan;
+}
+.buttons{
+    background-color: red;
+    height: 234px;
+    width: 100%;
+}
+.buttons:hover{
+    background-color:lightcoral;
+ }
+ .buttons:active{
+    background-color: lightpink;
+ }
+.words{
+    color: aliceblue;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 100px;
+}
+.buttont{
+    background-color: red;
+    height: 234px;
+    width: 100%;
+}
+.buttont:hover{
+    background-color:lightcoral;
+ }
+ .buttont:active{
+    background-color: lightpink;
+ }
+.wordt{
+    color: aliceblue;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 100px;
+}
+.dropdownt{
+    text-align: center;
+    display: none;
+    background-color: darkgrey;
+    position: absolute;
+    align-items: center;
+}
+.clock{
+    display: block;
+}
+.clock:hover .dropdownt{
+display: block;
+justify-content: right;
+}
+.buttonjt{
+    background-color: rgb(17, 105, 220);
+    height:50px;
+    width: 200%;
+}
+.buttonjt:hover{
+    background-color: lightskyblue;
+    cursor: pointer;
+}
+.buttonjt:active{
+    background-color: lightcyan;
+}
+.buttonkt{
+    background-color: rgb(17, 105, 220);
+    height:50px;
+    width: 200%;
+}
+.buttonkt:hover{
+    background-color: lightskyblue;
+    cursor: pointer;
+}
+.buttonkt:active{
+    background-color: lightcyan;
+}
+
+
